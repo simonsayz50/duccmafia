@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100%;
+
+
+
+     
+       .navbar ul{
+         list-style-type: none;
+         background-color:#525252 ;
+         padding0px;
+         margian: 0px;
+         text-align: center;
+       }
+.navbar a{
+color: snow;
+  padding 15px
+  display:block;
+  text-align: center;
+}
+  .navbar a:hover{
+    background-color: darkblue;
+    text-align:center;
+ 
+
+
+ 
